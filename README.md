@@ -4,3 +4,5 @@ Client/server program that sends messages between two different classes using FI
 100 requests for each of three people "John Smith," "Joe Smith," and "Jane Smith" are requested from the server; the server sends back data in the form of random numbers which are displayed in a histogram.
 
 Runs with commands `make` and then `./client`
+
+Created Fall 2018 for Intro to Computer Systems class
